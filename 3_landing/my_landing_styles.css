@@ -2,8 +2,20 @@
 * {
   box-sizing: border-box;
 
-  border: thin red solid;
-}
+ }
+
 /* You can turn it off if you want. (delete or comment it out) */
 
 /* Write your rules below */
+
+ .blue-shape {
+ 	border-radius: 10px;
+	box-shadow: 1px 1px 1px 0 gray;
+	color: white;
+	background-color: lightblue;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	width: 100%;
+	padding: 5px;
+}
