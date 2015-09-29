@@ -18,3 +18,35 @@ Note that I've included the background image for the page in this folder, "grey.
 Write your CSS rules below.
 
 */
+
+body {
+	background-image: url(grey.png);
+}
+
+.board {
+	border: thick solid blue;
+	margin: 38px auto;
+}
+
+.square {
+	color: orange;
+	font-size: 48px;
+	text-align: center;
+	text-shadow: 2px 2px 7px rgba(146, 150, 150, 1);
+	height: 72px;
+	width: 72px;
+}
+
+.dark_square {
+	background-color: blue;
+	margin: none;
+
+}
+
+
+
+
+
+
+
+.
